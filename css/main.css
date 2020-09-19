@@ -109,6 +109,9 @@ a:hover, a:active {
     border-radius: 50%;
 }
 
+h2{
+    color: white !important; 
+}
 /* ===================================================================
  * # typography & general theme styles
  * 
@@ -116,7 +119,7 @@ a:hover, a:active {
 h1, h2, h3, h4, h5, h6, 
 .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: "montserrat-medium", sans-serif;
-    color:white;
+    color:#000000;
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
