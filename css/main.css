@@ -92,6 +92,9 @@ body {
 .white-text{
     color: white;
 }
+.left-space{
+    padding-left: 10px;
+}
 /* ------------------------------------------------------------------- 
  * ## links
  * ------------------------------------------------------------------- */
@@ -1241,6 +1244,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     line-height: 1.255;
     color: #000000;
     margin-top: 0;
+    text-align: center;
 }
 
 .display-2--light {
@@ -2398,10 +2402,6 @@ html.no-csstransitions .home-content__main {
     margin-bottom: .9rem;
 }
 
-.services-list .service-item h3 {
-    margin-top: 0;
-}
-
 .services-list .service-item:nth-child(2n+1) {
     padding-right: 50px;
 }
@@ -2416,10 +2416,8 @@ border-style: solid;
 }
 
 .services-list .service-icon {
-    float: left;
     color: #39b54a;
     font-size: 4.8rem;
-    margin-top: -.6rem;
 }
 
 
