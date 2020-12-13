@@ -2418,6 +2418,7 @@ border-style: solid;
 .services-list .service-icon {
     color: #39b54a;
     font-size: 4.8rem;
+    align-items: center;
 }
 
 
