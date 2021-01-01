@@ -84,7 +84,6 @@ body {
     font-style: normal;
     font-weight: normal;
     line-height: 1.765;
-    color: #757575;
     margin: 0;
     padding: 0;
 }
@@ -126,7 +125,7 @@ h2{
 h1, h2, h3, h4, h5, h6, 
 .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: "montserrat-medium", sans-serif;
-    color:#000000;
+    color:white;
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
@@ -2385,8 +2384,8 @@ html.no-csstransitions .home-content__main {
 .s-services {
     padding-top: 16.2rem;
     padding-bottom: 13.2rem;
-    background-color: azure;
-    color: #757575;
+    background-color: black;
+    color: white;
     position: relative;
 }
 
