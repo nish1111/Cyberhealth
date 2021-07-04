@@ -62,7 +62,16 @@
 html {
     font-size: 10px;
 }
-
+.border{
+    border-color: #323232;
+    border-style: solid;
+    border-width: 1em;
+}
+.border-products{
+    border-color: black;
+    border-style: solid;
+    border-width: 5em;
+}
 .about{
 color: white;
 }
@@ -78,7 +87,7 @@ html, body {
 }
 
 body {
-    background: #111111;
+    background:#323232;
     font-family: "lora-regular", serif;
     font-size: 1.7rem;
     font-style: normal;
@@ -1241,7 +1250,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-family: "montserrat-medium", sans-serif;
     font-size: 5.2rem;
     line-height: 1.255;
-    color: white;
+    color: honeydew;
     margin-top: 0;
     text-align: center;
 }
@@ -2384,7 +2393,7 @@ html.no-csstransitions .home-content__main {
 .s-services {
     padding-top: 16.2rem;
     padding-bottom: 13.2rem;
-    background-color: black;
+    background-color: #323232;
     color: white;
     position: relative;
 }
